@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="AF9BCD96-353B-4C08-8238-D7CA45A3BDC8" version="0">
+	<info>
+		<title>2021_09_12_EXAM12CLASSX</title>
+		<description/>
+	</info>
+	<files index="id30" thumbnail="id26" totalSize="2423635">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-0c09972556990312b6f6d374940da5371e992b1b.png</file>
+		<file id="id10">data/images/img-3681b0f7dcab64821c1712393929248549937ad6.png</file>
+		<file id="id11">data/images/img-3c928721ce74d7b170808f0a219f584d00f06141.png</file>
+		<file id="id12">data/images/img-47c89256965e9fe3bbd7ffd728d7646f634d68b1.png</file>
+		<file id="id13">data/images/img-6a5a866124b52d72d2ae676fb2457901ef3e55c0.png</file>
+		<file id="id14">data/images/img-78d560bfc4dd777089a421b01fce23ae4ea84b3a.png</file>
+		<file id="id15">data/images/img-9b84b88ddc09716bb3518914d877234c3ee1c318.png</file>
+		<file id="id16">data/images/img-b4fcfa4fe36e7c3f00ad7cc1c66b15a2c1e8716a.png</file>
+		<file id="id17">data/images/img-be491eb5425bb275cf93b2a6227c82e2660a4953.png</file>
+		<file id="id18">data/images/img-bea38e9ec3c438e1c7917546d8f2d8c01f3804ed.png</file>
+		<file id="id19">data/images/img-c8e66226838cbe829841b05f45cf1d807782473e.png</file>
+		<file id="id20">data/images/img-c9dee829339d3f5105b3993d582f2b2215064c06.png</file>
+		<file id="id21">data/images/img-e71ca278416cc51e30113788668dfddefefd9030.png</file>
+		<file id="id22">data/images/img-ee6680bebf90bbaa64cdde360ad2a9f3b72a2da5.png</file>
+		<file id="id23">data/images/img-f9c0e0f78715d06eac7621e34b047552ad8a7842.png</file>
+		<file id="id24">data/ismplayer/app_store2x.png</file>
+		<file id="id25">data/ismplayer/play.svg</file>
+		<file id="id26">data/ismplayer/preview.png</file>
+		<file id="id27">data/ismplayer/style.css</file>
+		<file id="id28">data/ismplayer/style_mini.css</file>
+		<file id="id29">data/player.js</file>
+		<file id="id30">index.html</file>
+		<file id="id31">ismplayer.html</file>
+		<file id="id32">preview.png</file>
+	</files>
+</presentation>
+
